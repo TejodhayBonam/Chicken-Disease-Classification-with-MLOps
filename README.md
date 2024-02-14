@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-[https://github.com/entbappy/Chicken-Disease-Classification--Project](https://github.com/TejodhayBonam/Chicken-Disease-Classification-with-MLOps)
+[https://github.com/TejodhayBonam/Chicken-Disease-Classification-with-MLOps]
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
